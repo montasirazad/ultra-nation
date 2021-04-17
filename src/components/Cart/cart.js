@@ -12,6 +12,7 @@ const Cart = (props) => {
         <div>
             <h2>  cart: {cart.length}</h2>
             <p>Total population : {totalPopulation}</p>
+            {/* ascvvv */}
         </div>
     );
 };
